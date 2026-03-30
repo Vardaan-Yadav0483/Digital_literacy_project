@@ -15,14 +15,39 @@ As a Student Digital Ambassador, my role is to guide my peers in developing digi
 This repository includes all five project tasks: infographic, digital portfolio creation, platform exploration, professional email writing, and cybercrime awareness. 
 
 ## 📁 Repository Structure  
+digital-literacy-project/  
+│  
 ├── README.md  
+│  
 ├── report/  
-│ └── Project_Report.pdf  
+│   └── Project_Report.pdf  
+│  
 ├── task-1-presentation/  
+│   ├── infographic_ss.png  
+│   └── brief_description.md  
+│  
 ├── task-2-portfolio/  
+│   ├── GitHub_ss.png  
+│   ├── LinkedIn_ss.png  
+│   ├── ResearchGate_ss.png  
+│   └── reflection_notes.md  
+│  
 ├── task-3-platforms/  
+│   ├── google-form.png  
+│   ├── Hackerrank_ss.png  
+│   ├── Google Form and Responses Link.md  
+│   └── notes.md  
+│  
 ├── task-4-email-etiquette/  
-└── task-5-cybercrime/
+│   ├── email1.pdf  
+│   ├── email2.pdf  
+│   └── social-media-checklist.md  
+│  
+├── task-5-cybercrime/    
+|     └── casestudy.md  
+|     └── prevention-checklist.md    
+
+    
 
 ## 📝 Module Summaries  
 ### Task 1: Digital Literacy Awareness Infographic  
