@@ -59,7 +59,7 @@ This repository includes all five project tasks: infographic, digital portfolio 
 
 ## 📑 Project Report  
 The complete written documentation, including my detailed reflections and observations for all five tasks, is available here:
-./report/Project_Report.pdf
+[./report/Project_Report.pdf](./report/Project_Report.pdf)
 
 ## 🛠️ Tools & References  
 **Design:** Canva www.canva.com  
